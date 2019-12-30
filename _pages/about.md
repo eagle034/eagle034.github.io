@@ -17,7 +17,6 @@ I graduated from the [Department of Electrical and Electronic Engineering (EEE)]
 I am currently focusing on **Development of a parallel processing based Synthetic Aperture Radar(SAR) Electro-Magnetic(EM)
 antenna data simulator to simulate generic 3D scenes**.
 
-I have always been a team player and like working with a different group of people. I enjoy being a leader. I am passionate about developing advanced technology solutions in an affordable way to help humanity as well as the industry.
 
 
 
