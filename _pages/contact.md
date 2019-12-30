@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-* E-mail: shammya [dot] saha [at] asu [dot] edu; shammya [dot] saha [at] ieee [dot] org
-* Mail: 7418 East Innovation Way South, Room 183, Mesa, Arizona 85212.
-* Cell: +1 (602) 736-9448
+* E-mail: mhossai9 [at] uncc [dot] edu;
+* Mail: 9808 Mary Alexander Road, Charlotte, North Carolina, Zip-28262.
+* Cell: +1 (980) 319-3896
 
